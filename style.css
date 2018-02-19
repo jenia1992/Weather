@@ -1,0 +1,15 @@
+
+div {
+    box-sizing: border-box;
+    
+}
+
+.weather-box {
+   
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+.weather-box div img{
+    width:100%;
+}
